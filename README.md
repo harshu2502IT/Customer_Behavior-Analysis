@@ -59,6 +59,8 @@ A retail company wants to better understand its customers’ shopping behavior d
 * Top Products & Revenue Insights
 * Customer Purchase Behavior
 * Impact of Discounts, Reviews & Payment Methods
+  <img width="1327" height="726" alt="Screenshot 2026-03-18 234550" src="https://github.com/user-attachments/assets/f091ef29-126d-43b0-9dff-c28719fac088" />
+
 
 ---
 
